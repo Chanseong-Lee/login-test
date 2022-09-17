@@ -6,6 +6,6 @@
 - Springboot 2.7.3
 
 ## Functions
-- login : /login
-- logout : /logout
-- main page : /main (should be authenticated to access "/main")
+- login : http://localhost:8080/login
+- logout : http://localhost:8080/logout
+- main page : http://localhost:8080/main (should be authenticated to access "/main")
